@@ -263,12 +263,12 @@ msgstr ""
 
 #: includes/admin-screens/dashboard.php:82
 msgid "Link to product registration"
-msgstr ""
+msgstr "Link naar productregistratie"
 
 #: includes/admin-screens/dashboard.php:84
 #: includes/lib/inc/class-fusion-product-registration.php:404
 msgid "Register Your Product"
-msgstr ""
+msgstr "Registreer je product"
 
 #: includes/admin-screens/dashboard.php:85
 msgid ""
