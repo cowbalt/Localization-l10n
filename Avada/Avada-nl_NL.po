@@ -17,6 +17,7 @@
 # vincebalk
 # Henri Matthijssen
 # Dries Van Hooydonck
+# Cowbalt
 # ACJ
 msgid ""
 msgstr ""
@@ -315,12 +316,12 @@ msgstr "Aanbevolen"
 #. translators: Item price.
 #: includes/admin-screens/dashboard.php:128
 msgid "Only %s - Buy Now"
-msgstr ""
+msgstr "Máár %s - Koop nu "
 
 #. translators: Item price.
 #: includes/admin-screens/dashboard.php:132
 msgid "On Sale - Only %s"
-msgstr ""
+msgstr "In de Sale - Máár %s"
 
 #: includes/admin-screens/dashboard.php:137
 #: includes/admin-screens/dashboard.php:147
@@ -341,7 +342,8 @@ msgstr ""
 msgid ""
 "Buy another license of the Avada Website Builder for your next project. "
 "Streamline your work and save time for the more important things."
-msgstr ""
+msgstr "Schaf een nieuwe Avada Website Builder licentie aan voor je volgende project."
+"Maak je werk efficienter en bespaar daardoor tijd voor belangrijke zaken."
 
 #: includes/admin-screens/dashboard.php:157
 msgid "Discount"
@@ -349,73 +351,76 @@ msgstr "Korting"
 
 #: includes/admin-screens/dashboard.php:164
 msgid "Avada Hosting"
-msgstr ""
+msgstr "Avada Hosting"
 
 #: includes/admin-screens/dashboard.php:167
 msgid ""
 "Launch your site in seconds on WP Engine who offer optimized hosting for the "
 "Avada Website Builder."
-msgstr ""
+msgstr "Creeer bij WP Engine in een paar seconden een nieuwe site. Zij bieden "
+"een geoptimaliseerde hosting voor de Avada Website Builder"
 
 #: includes/admin-screens/dashboard.php:168
 msgid "Enjoy 4 months free!"
-msgstr ""
+msgstr "4 maanden gratis gebruik"
 
 #: includes/admin-screens/dashboard.php:171
 msgid "Get Special Offer"
-msgstr ""
+msgstr "Vraag een speciaal aanbod aan"
 
 #: includes/admin-screens/dashboard.php:178
 msgid "Codeable Logo"
-msgstr ""
+msgstr "Codeable Logo"
 
 #: includes/admin-screens/dashboard.php:182
 msgid "Avada Customization"
-msgstr ""
+msgstr "Avada maatwerk"
 
 #: includes/admin-screens/dashboard.php:185
 msgid ""
 "We work with Codeable who offers amazing customization services. They are "
 "equipped to handle both large and small customization jobs."
-msgstr ""
+msgstr "We werken samen met Codeable die fantastisch maatwerk biedt"
+"Ze zijn ingericht om kleine- en grote opdrachten aan te nemen."
 
 #: includes/admin-screens/dashboard.php:188
 msgid "Get Free Quote"
-msgstr ""
+msgstr "Vraag een gratis offerte aan"
 
 #: includes/admin-screens/dashboard.php:196
 msgid "Avada Integrations"
-msgstr ""
+msgstr "Avada integratie"
 
 #: includes/admin-screens/dashboard.php:199
 msgid "Premium Additions"
-msgstr ""
+msgstr "Premium opties"
 
 #: includes/admin-screens/dashboard.php:207
 msgid "HubSpot Logo"
-msgstr ""
+msgstr "HubSpot Logo"
 
 #: includes/admin-screens/dashboard.php:211
 msgid "CRM, Marketing & Sales"
-msgstr ""
+msgstr "CRM, Marketing & Sales"
 
 #: includes/admin-screens/dashboard.php:214
 msgid ""
 "HubSpot offers a full stack of software for marketing, sales, and also "
 "customer service, with a completely free CRM at its core. Grow now!"
-msgstr ""
+msgstr "HubSpot biedt een volledige softwarepakket voor marketing, sales en ook"
+"klantenservice, met een compleet gratis CRM systeem als basis. Genereer meer sales!"
 
 #: includes/admin-screens/dashboard.php:217
 msgid "WP Marketing"
-msgstr ""
+msgstr "WP Marketing"
 
 #: includes/admin-screens/dashboard.php:224
 msgid "WPML Logo"
-msgstr ""
+msgstr "WPML Logo"
 
 #: includes/admin-screens/dashboard.php:228
 msgid "Multilingual Sites"
-msgstr ""
+msgstr "Meertalige sites"
 
 #: includes/admin-screens/dashboard.php:231
 msgid ""
