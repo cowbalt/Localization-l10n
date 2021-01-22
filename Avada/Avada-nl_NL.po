@@ -247,7 +247,7 @@ msgstr "Avada is geinstalleerd en klaar voor gebruik om iets moois te bouwen"
 
 #: includes/admin-screens/dashboard.php:68
 msgid "Watch Avada Website Builder In Action."
-msgstr ""
+msgstr "Bekijk de Avada Website Builder in Actie"
 
 #: includes/admin-screens/dashboard.php:73
 #: includes/admin-screens/dashboard.php:160
@@ -260,7 +260,7 @@ msgstr "Jouw website instellen"
 
 #: includes/admin-screens/dashboard.php:80
 msgid "Easily setup your website with 3 little steps."
-msgstr ""
+msgstr "Installeer je website in 3 makkelijke stappen"
 
 #: includes/admin-screens/dashboard.php:82
 msgid "Link to product registration"
@@ -274,19 +274,19 @@ msgstr "Registreer je product"
 #: includes/admin-screens/dashboard.php:85
 msgid ""
 "Enter your Envato token in the form below to register this copy of Avada."
-msgstr ""
+msgstr "Voer uw Envato-token in het onderstaande formulier in om dit exemplaar van Avada te registreren."
 
 #: includes/admin-screens/dashboard.php:90
 msgid "Link to prebuilt websites"
-msgstr ""
+msgstr "Link naar de voobreeld websites"
 
 #: includes/admin-screens/dashboard.php:92
 msgid "Select A Prebuilt Website"
-msgstr ""
+msgstr "Selecteer een voorbeeld website"
 
 #: includes/admin-screens/dashboard.php:93
 msgid "One-click import one of our professionally designed, prebuilt websites."
-msgstr ""
+msgstr "Importeert met een eenvoudige klik 1 van de professionele voorbeeld pagina's"
 
 #: includes/admin-screens/dashboard.php:98
 msgid "Live edit website"
@@ -294,7 +294,7 @@ msgstr "Live website bewerken"
 
 #: includes/admin-screens/dashboard.php:100
 msgid "Customize Your Website"
-msgstr ""
+msgstr "Pas uw website aan"
 
 #: includes/admin-screens/dashboard.php:101
 msgid ""
