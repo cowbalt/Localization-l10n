@@ -242,7 +242,8 @@ msgstr "Welkom bij Avada"
 msgid ""
 "Avada is now installed and ready to use! Get ready to build something "
 "beautiful. We hope you enjoy it!"
-msgstr ""
+msgstr "Avada is geinstalleerd en klaar voor gebruik om iets moois te bouwen"
+"We hopen dat je er veel plezier aan beleeft!"
 
 #: includes/admin-screens/dashboard.php:68
 msgid "Watch Avada Website Builder In Action."
