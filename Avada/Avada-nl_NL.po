@@ -37,7 +37,7 @@ msgstr ""
 
 #: includes/metaboxes/tabs/tab_template.php:159
 msgid "404"
-msgstr ""
+msgstr "404"
 
 # @ Avada
 #: 404.php:20
@@ -253,7 +253,7 @@ msgstr "Bekijk de Avada Website Builder in Actie"
 #: includes/admin-screens/dashboard.php:73
 #: includes/admin-screens/dashboard.php:160
 msgid "WPEngine Logo"
-msgstr ""
+msgstr "WPEngine Logo"
 
 #: includes/admin-screens/dashboard.php:79
 msgid "Setup Your Website"
@@ -302,10 +302,12 @@ msgid ""
 "Edit your website live, directly on the front-end, with Avada's amazing "
 "design tools."
 msgstr ""
+"Bewerk direct je website, rechtstreeks in de front-end editor, met de "
+"fantastische Avada design tools"
 
 #: includes/admin-screens/dashboard.php:113
 msgid "Avada Resources"
-msgstr ""
+msgstr "Avada Bronnen"
 
 # @ Avada
 #: includes/admin-screens/dashboard.php:116
@@ -336,13 +338,14 @@ msgstr "Verkoop"
 #: includes/class-avada-migrate.php:388
 #: includes/class-fusion-builder-migrate.php:840
 msgid "Avada Logo"
-msgstr ""
+msgstr "Avada Logo"
 
 #: includes/admin-screens/dashboard.php:150
 msgid ""
 "Buy another license of the Avada Website Builder for your next project. "
 "Streamline your work and save time for the more important things."
-msgstr "Schaf een nieuwe Avada Website Builder licentie aan voor je volgende project."
+msgstr ""
+"Schaf een nieuwe Avada Website Builder licentie aan voor je volgende project."
 "Maak je werk efficienter en bespaar daardoor tijd voor belangrijke zaken."
 
 #: includes/admin-screens/dashboard.php:157
@@ -357,7 +360,8 @@ msgstr "Avada Hosting"
 msgid ""
 "Launch your site in seconds on WP Engine who offer optimized hosting for the "
 "Avada Website Builder."
-msgstr "Creeer bij WP Engine in een paar seconden een nieuwe site. Zij bieden "
+msgstr ""
+"Creeer bij WP Engine in een paar seconden een nieuwe site. Zij bieden "
 "een geoptimaliseerde hosting voor de Avada Website Builder"
 
 #: includes/admin-screens/dashboard.php:168
@@ -380,7 +384,8 @@ msgstr "Avada maatwerk"
 msgid ""
 "We work with Codeable who offers amazing customization services. They are "
 "equipped to handle both large and small customization jobs."
-msgstr "We werken samen met Codeable die fantastisch maatwerk biedt"
+msgstr ""
+"We werken samen met Codeable die fantastisch maatwerk biedt"
 "Ze zijn ingericht om kleine- en grote opdrachten aan te nemen."
 
 #: includes/admin-screens/dashboard.php:188
@@ -407,7 +412,8 @@ msgstr "CRM, Marketing & Sales"
 msgid ""
 "HubSpot offers a full stack of software for marketing, sales, and also "
 "customer service, with a completely free CRM at its core. Grow now!"
-msgstr "HubSpot biedt een volledige softwarepakket voor marketing, sales en ook"
+msgstr ""
+"HubSpot biedt een volledige softwarepakket voor marketing, sales en tevens"
 "klantenservice, met een compleet gratis CRM systeem als basis. Genereer meer sales!"
 
 #: includes/admin-screens/dashboard.php:217
@@ -427,33 +433,38 @@ msgid ""
 "WPML makes it easy to build multilingual sites and run them. It's powerful "
 "enough for corporate sites, yet simple for blogs."
 msgstr ""
+"WPML maakt het eenvoudig om een meertalige website te maken en te draaien."
+"Krachtig genoeg voor een bedrijf, en toch ook simpel voor een blog."
 
 #: includes/admin-screens/dashboard.php:234
 msgid "WP Multilingual"
-msgstr ""
+msgstr "WP Meertalog"
 
 #: includes/admin-screens/dashboard.php:241
 msgid "EC Logo"
-msgstr ""
+msgstr "EC Logo"
 
 #: includes/admin-screens/dashboard.php:245
 #: includes/options/events_calendar.php:36 includes/options/sidebars.php:568
 msgid "Events Calendar"
-msgstr ""
+msgstr "Evenementen Kalender"
 
 #: includes/admin-screens/dashboard.php:248
 msgid ""
 "Power your events for free with The Events Calendar, or upgrade to Pro to "
 "unlock recurring events, views, premium support, and more."
 msgstr ""
+"Beheer gratis je evenementen met de The Events Calandar, of upgrade naar de pro"
+"versie om gebruik te kunnen maken van functies zoals terugkerende evenementen, views"
+"premium support, en meer." 
 
 #: includes/admin-screens/dashboard.php:251
 msgid "WP Events Calendar"
-msgstr ""
+msgstr "WP evenementen kalender"
 
 #: includes/admin-screens/plugins.php:54
 msgid "Manage Bundled, Premium & Recommended Plugins"
-msgstr ""
+msgstr "Beheer je gebundelde, premium & aanbevolen plugins"
 
 #. translators: The "Product Registration" link.
 #: includes/admin-screens/plugins.php:59
@@ -463,6 +474,10 @@ msgid ""
 "Revolution & Layer Slider are premium plugins that can be installed once "
 "your <a href=\"%s\">product is registered</a>."
 msgstr ""
+"Avada Core en Avada Builder zijn vereiste plugins voor de Avada Website "
+"Builder. Fusion White Label Branding, Convert Plus, ACF Pro, Slider "
+"Revolution & Layer Slider zijn premium plugins die geinstalleerd kunnen "
+"worden zodra uw <a href=\"%s\">product is geregistreerd</a>."
 
 #: includes/admin-screens/plugins.php:68
 msgid ""
@@ -470,12 +485,17 @@ msgid ""
 "version. The recommended plugins below offer design integration with Avada. "
 "You can manage the plugins from this tab."
 msgstr ""
+"Verifieer eerst of de laatste versie van Avada is geinstalleerd, voordat je premium plugins"
+"gaat updaten. De aanbevolen plugins hieronder bieden integratie met Avada."
+"Je kunt je plugins in deze tab beheren."
 
 #: includes/admin-screens/plugins.php:74
 msgid ""
 "Premium Plugins Can Only Be Installed And Updated With A Valid Token "
 "Registration"
 msgstr ""
+"Premium plugins kunnen alleen geinstalleerd en geupdated worden met een"
+"valide registratie token."
 
 #. translators: "Product Registration" link.
 #: includes/admin-screens/plugins.php:76
@@ -484,6 +504,9 @@ msgid ""
 "premium plugins: Avada Core, Avada Builder, Fusion White Label Branding, "
 "Convert Plus, ACF Pro, Slider Revolution & Layer Slider."
 msgstr ""
+"Ga naar de %s pagine en voer een valide token in, om de premium plugins te"
+"installeren of te updaten: Avada Core, Avada Builder, Fusion White Label Branding,"
+"Convert Plus, ACF Pro, Slider Revolution & Layer Slider."
 
 # @ Avada
 #: includes/admin-screens/plugins.php:76
@@ -493,7 +516,7 @@ msgstr "Projectregistratie"
 
 #: includes/admin-screens/plugins.php:82
 msgid "The Plugin Server Could Not Be Reached"
-msgstr ""
+msgstr "De plugin server is niet bereikbaar."
 
 #. translators: %1$s = Status text & link. %2$s: Plugin Installation text &
 #. link. %3$s: Support Dashboard text & link.
@@ -504,6 +527,9 @@ msgid ""
 "persists, you can also get the plugins through our alternate method directly "
 "from the %3$s."
 msgstr ""
+"Controleer op de %1$s pagina of wp_remote_get() wel werkt. Voor meer informatie"
+"kun je terecht in de documentataite van de %2$s. Als problemen zich voor blijven doen"
+"dan kun je plugins volgens de alternatieve methode via de %3$s verkrijgen."
 
 # @ Avada
 #: includes/admin-screens/plugins.php:88
@@ -524,17 +550,17 @@ msgstr "Plugininstallatie"
 
 #: includes/admin-screens/plugins.php:90
 msgid "Support Dashboard"
-msgstr ""
+msgstr "Support Dashboard"
 
 #. translators: Version number.
 #: includes/admin-screens/plugins.php:151
 msgid "New version available: %s"
-msgstr ""
+msgstr "Nieuwe versie beschikbaar: %s"
 
 #. translators: plugin name.
 #: includes/admin-screens/plugins.php:157
 msgid "Active: %s"
-msgstr ""
+msgstr "Actief: %s"
 
 #. translators: %1$s: Plugin version. %2$s: Author URL. %3$s: Author Name.
 #: includes/admin-screens/plugins.php:164
@@ -544,7 +570,7 @@ msgstr ""
 #. translators: Version number.
 #: includes/admin-screens/plugins.php:167
 msgid "Available Version: %s"
-msgstr ""
+msgstr "Beschikbare versie: %s"
 
 # @ Avada
 #: includes/admin-screens/plugins.php:193
@@ -555,25 +581,27 @@ msgstr "Vereist"
 
 #: includes/admin-screens/plugins.php:199
 msgid "Premium"
-msgstr ""
+msgstr "Premium"
 
 #: includes/admin-screens/plugins.php:227
 msgid "Error "
-msgstr ""
+msgstr "Error"
 
 #: includes/admin-screens/plugins.php:231
 msgid "Get Avada Add-ons"
-msgstr ""
+msgstr "Verkrijg de Avada add-ons"
 
 #: includes/admin-screens/plugins.php:232
 msgid ""
 "The Avada Website Builder ecosystem offers a variety of third-party add-ons "
 "that extend core features and deliver tailored solutions for specific tasks."
 msgstr ""
+"Het ecosysteem van Avada Website Builder biedt een variatie aan add-ons van 3rde partijen"
+"die de core fuctionaliteiten uibreiden en daarmee op maat gemaakte oplossing biedt voor specifieke taken"
 
 #: includes/admin-screens/plugins.php:237
 msgid "Add-ons are only supported by the author who created them."
-msgstr ""
+msgstr "Add-ons worden alleen ondersteund door de parij die ze geschreven heeft"
 
 # @ Avada
 #: includes/admin-screens/plugins.php:283
@@ -587,7 +615,7 @@ msgstr ""
 
 #: includes/admin-screens/plugins.php:303 includes/class-avada-admin.php:1195
 msgid "Deactivate"
-msgstr ""
+msgstr "Deactiveren"
 
 # @ Avada
 #: includes/admin-screens/plugins.php:305
@@ -599,7 +627,7 @@ msgstr "Activeren"
 
 #: includes/admin-screens/plugins.php:308
 msgid "Get Add-on"
-msgstr ""
+msgstr "Verkrijg add-on"
 
 #: includes/admin-screens/plugins.php:321
 #: includes/admin-screens/prebuilt-websites.php:351
@@ -609,7 +637,7 @@ msgstr "Nieuw"
 #: includes/admin-screens/prebuilt-websites.php:21
 #: includes/admin-screens/prebuilt-websites.php:38
 msgid "We're sorry but the demo data could not be imported"
-msgstr ""
+msgstr "De demo data kan helaas niet worden geimporteerd. Onze excuses hiervoor"
 
 #: includes/admin-screens/prebuilt-websites.php:22
 #: includes/admin-screens/prebuilt-websites.php:39
@@ -617,31 +645,33 @@ msgid ""
 "This is most likely due to low PHP configurations on your server. There are "
 "two possible solutions."
 msgstr ""
+"Dit heeft hoogswaarschijnlijk te maken met te lage PHP instellingen op de server."
+"Er zijn hiervoor 2 mogelijke oplossingen."
 
 #: includes/admin-screens/prebuilt-websites.php:24
 #: includes/admin-screens/prebuilt-websites.php:41
 #: includes/admin-screens/prebuilt-websites.php:49
 msgid "Solution 1:"
-msgstr ""
+msgstr "Oplossing 1"
 
 #: includes/admin-screens/prebuilt-websites.php:24
 #: includes/admin-screens/prebuilt-websites.php:41
 #: includes/admin-screens/prebuilt-websites.php:49
 msgid "Import the demo using an alternate method."
-msgstr ""
+msgstr "Importeer de demo door gebruik te maken van de alternatieve methode"
 
 #: includes/admin-screens/prebuilt-websites.php:24
 #: includes/admin-screens/prebuilt-websites.php:41
 #: includes/admin-screens/prebuilt-websites.php:49
 msgid "Alternate Method"
-msgstr ""
+msgstr "Alternatieve methode"
 
 #. translators: %1$s: RED. %2$s: "Reset WordPress Plugin" link.
 #: includes/admin-screens/prebuilt-websites.php:26
 #: includes/admin-screens/prebuilt-websites.php:43
 #: includes/admin-screens/prebuilt-websites.php:50
 msgid "Solution 2:"
-msgstr ""
+msgstr "Oplossing 2:"
 
 #: includes/admin-screens/prebuilt-websites.php:26
 #: includes/admin-screens/prebuilt-websites.php:43
@@ -649,20 +679,22 @@ msgid ""
 "Fix the PHP configurations reported in %1$s on the Status page, then use the "
 "%2$s, then reimport."
 msgstr ""
+"Pas de PHP configuratie aan zoals gerapporteerd in %1$s op de status pagina."
+"Daarna gebruik je de %2$s, en vervolgens herimporteren."
 
 #: includes/admin-screens/prebuilt-websites.php:26
 #: includes/admin-screens/prebuilt-websites.php:43
 msgid "RED"
-msgstr ""
+msgstr "ROOD"
 
 #: includes/admin-screens/prebuilt-websites.php:26
 #: includes/admin-screens/prebuilt-websites.php:43
 msgid "Reset WordPress Plugin"
-msgstr ""
+msgstr "Reset WordPress Plugin"
 
 #: includes/admin-screens/prebuilt-websites.php:30
 msgid "Demo data successfully imported"
-msgstr ""
+msgstr "Demo data met succes geimporteerd"
 
 #. translators: "Regenerate Thumbnails" plugin link.
 #: includes/admin-screens/prebuilt-websites.php:32
@@ -687,7 +719,7 @@ msgstr ""
 
 #: includes/admin-screens/prebuilt-websites.php:34
 msgid "Permalinks"
-msgstr ""
+msgstr "Permalinks"
 
 #: includes/admin-screens/prebuilt-websites.php:47
 msgid ""
@@ -709,7 +741,7 @@ msgstr "Leer meer"
 
 #: includes/admin-screens/prebuilt-websites.php:66
 msgid "Import A Prebuilt Website"
-msgstr ""
+msgstr "Importeer een voorbeeld pagina"
 
 #: includes/admin-screens/prebuilt-websites.php:67
 msgid ""
@@ -752,17 +784,17 @@ msgstr "Veel gestelde vragen"
 #: includes/admin-screens/prebuilt-websites.php:148
 #: includes/class-avada-admin.php:226
 msgid "Layouts"
-msgstr ""
+msgstr "Layouts"
 
 #: includes/admin-screens/prebuilt-websites.php:154
 #: includes/class-avada-admin.php:227
 msgid "Icons"
-msgstr ""
+msgstr "Iconen"
 
 #: includes/admin-screens/prebuilt-websites.php:160
 #: includes/class-avada-admin.php:230 includes/options/forms.php:39
 msgid "Forms"
-msgstr ""
+msgstr "Formulieren"
 
 # @ Avada
 #: includes/admin-screens/prebuilt-websites.php:166
@@ -780,7 +812,7 @@ msgstr "Forum"
 
 #: includes/admin-screens/prebuilt-websites.php:184
 msgid "Convert Plus"
-msgstr ""
+msgstr "Convert Plus"
 
 #: includes/admin-screens/prebuilt-websites.php:189
 #: includes/class-avada-pwa.php:170
@@ -800,27 +832,27 @@ msgstr "Sliders"
 #: includes/lib/inc/redux/framework/FusionReduxCore/framework.php:222
 #: includes/lib/inc/redux/framework/FusionReduxCore/framework.php:226
 msgid "Options"
-msgstr ""
+msgstr "Opties"
 
 #: includes/admin-screens/prebuilt-websites.php:202
 msgid "Widgets"
-msgstr ""
+msgstr "Widgets"
 
 #: includes/admin-screens/prebuilt-websites.php:224
 msgid "Filter Sites"
-msgstr ""
+msgstr "Filter Sites"
 
 #: includes/admin-screens/prebuilt-websites.php:225
 msgid "Search prebuilt sites"
-msgstr ""
+msgstr "Doorzoek voorbeeld pagina's"
 
 #: includes/admin-screens/prebuilt-websites.php:229
 msgid "All Prebuilt Sites"
-msgstr ""
+msgstr "Alle voorbeeld pagina's"
 
 #: includes/admin-screens/prebuilt-websites.php:235
 msgid "Imported"
-msgstr ""
+msgstr "Geimporteerd"
 
 # @ Avada
 #. Translators: Tag name (string)
